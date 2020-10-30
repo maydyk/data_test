@@ -29,18 +29,18 @@
 2020-10-26 18:54:23 eng.pxz  en # English
 2020-10-26 18:54:26 enm.pxz __ # English, Middle (1100-1500)
 2020-10-26 18:54:32 epo.pxz eo # Esperanto
-2020-10-26 18:54:36 equ.pxz __ ???
+2020-10-26 18:54:36 equ.pxz __ # ???
 2020-10-26 18:54:41 est.pxz et # Estonian
 2020-10-26 18:54:48 eus.pxz # Basque
-2020-10-26 18:54:53 fao.pxz ???
+2020-10-26 18:54:53 fao.pxz # ???
 2020-10-26 18:54:53 fas.pxz # Persian
-2020-10-26 18:54:55 fil.pxz ???
+2020-10-26 18:54:55 fil.pxz # ???
 2020-10-26 18:55:05 fin.pxz # Finnish
 2020-10-26 18:55:07 fra.pxz # French
 2020-10-26 18:55:14 frk.pxz # German Fraktur
 2020-10-26 18:55:17 frm.pxz # French, Middle (ca. 1400-1600)
-2020-10-26 18:55:19 fry.pxz ???
-2020-10-26 18:55:23 gla.pxz ???
+2020-10-26 18:55:19 fry.pxz # ???
+2020-10-26 18:55:23 gla.pxz # ???
 2020-10-26 18:55:24 gle.pxz # Irish
 2020-10-26 18:55:27 glg.pxz # Galician
 2020-10-26 18:55:30 grc.pxz # Greek, Ancient (-1453)
@@ -50,7 +50,7 @@
 2020-10-26 18:55:37 hin.pxz # Hindi
 2020-10-26 18:55:42 hrv.pxz # Croatian
 2020-10-26 18:55:49 hun.pxz # Hungarian
-2020-10-26 18:55:53 hye.pxz ???
+2020-10-26 18:55:53 hye.pxz # ???
 2020-10-26 18:55:56 iku.pxz # Inuktitut
 2020-10-26 18:55:58 ind.pxz # Indonesian
 2020-10-26 18:56:00 isl.pxz # Icelandic
@@ -65,57 +65,57 @@
 2020-10-26 18:56:31 kaz.pxz # Kazakh
 2020-10-26 18:56:33 khm.pxz # Central Khmer
 2020-10-26 18:56:45 kir.pxz # Kirghiz; Kyrgyz
-2020-10-26 18:56:50 kmr.pxz ???
+2020-10-26 18:56:50 kmr.pxz # ???
 2020-10-26 18:56:51 kor.pxz # Korean
 2020-10-26 18:56:53 kor_vert.pxz # Korean (vertical)
 2020-10-26 18:57:02 lao.pxz # Lao
 2020-10-26 18:57:06 lat.pxz # Latin
 2020-10-26 18:57:10 lav.pxz # Latvian
 2020-10-26 18:57:14 lit.pxz # Lithuanian
-2020-10-26 18:57:17 ltz.pxz ???
+2020-10-26 18:57:17 ltz.pxz # ???
 2020-10-26 18:57:25 mal.pxz # Malayalam
 2020-10-26 18:57:28 mar.pxz # Marathi
 2020-10-26 18:57:30 mkd.pxz # Macedonian
 2020-10-26 18:57:33 mlt.pxz # Maltese
-2020-10-26 18:57:35 mon.pxz ???
-2020-10-26 18:57:36 mri.pxz ???
+2020-10-26 18:57:35 mon.pxz # ???
+2020-10-26 18:57:36 mri.pxz # ???
 2020-10-26 18:57:38 msa.pxz # Malay
 2020-10-26 18:57:43 mya.pxz # Burmese
 2020-10-26 18:57:45 nep.pxz # Nepali
 2020-10-26 18:57:52 nld.pxz # Dutch; Flemish
 2020-10-26 18:57:56 nor.pxz # Norwegian
 2020-10-26 18:58:04 oci.pxz # Oriya
-2020-10-26 18:58:06 ori.pxz ???
-2020-10-26 18:58:19 osd.pxz ???
+2020-10-26 18:58:06 ori.pxz # ???
+2020-10-26 18:58:19 osd.pxz # ???
 2020-10-26 18:58:20 pan.pxz # Panjabi; Punjabi
 2020-10-26 18:58:26 pol.pxz # Polish
 2020-10-26 18:58:29 por.pxz # Portuguese
 2020-10-26 18:58:31 pus.pxz # Pushto; Pashto
-2020-10-26 18:58:37 que.pxz ???
+2020-10-26 18:58:37 que.pxz # ???
 2020-10-26 18:58:41 ron.pxz # Romanian; Moldavian; Moldovan
 2020-10-26 18:58:47 rus.pxz # Russian
 2020-10-26 18:59:02 san.pxz # Sanskrit
 2020-10-26 18:59:04 sin.pxz # Sinhala; Sinhalese
 2020-10-26 18:59:10 slk.pxz # Slovak
 2020-10-26 18:59:14 slv.pxz # Slovenian
-2020-10-26 18:59:15 snd.pxz ???
+2020-10-26 18:59:15 snd.pxz # ???
 2020-10-26 18:59:18 spa.pxz # Spanish; Castilian
 2020-10-26 18:59:22 spa_old.pxz # Spanish; Castilian - Old
 2020-10-26 18:59:24 sqi.pxz # Albanian
 2020-10-26 18:59:27 srp.pxz # Serbian
 2020-10-26 18:59:31 srp_latn.pxz # Serbian - Latin
-2020-10-26 18:59:32 sun.pxz ???
+2020-10-26 18:59:32 sun.pxz # ???
 2020-10-26 18:59:35 swa.pxz # Swahili
 2020-10-26 18:59:39 swe.pxz # Swedish
 2020-10-26 18:59:42 syr.pxz # Syriac
 2020-10-26 18:59:46 tam.pxz # Tamil
-2020-10-26 18:59:47 tat.pxz ???
+2020-10-26 18:59:47 tat.pxz # ???
 2020-10-26 18:59:51 tel.pxz # Telugu
 2020-10-26 18:59:54 tgk.pxz # Tajik
 2020-10-26 18:59:54 tgl.pxz # Tagalog, check version!
 2020-10-26 18:59:55 tha.pxz # Thai
 2020-10-26 18:59:56 tir.pxz # Tigrinya
-2020-10-26 18:59:57 ton.pxz ???
+2020-10-26 18:59:57 ton.pxz # ???
 2020-10-26 19:00:03 tur.pxz # Turkish
 2020-10-26 19:00:05 uig.pxz # Uighur; Uyghur
 2020-10-26 19:00:11 ukr.pxz # Ukrainian
@@ -124,4 +124,4 @@
 2020-10-26 19:00:22 uzb_cyrl.pxz # Uzbek - Cyrillic
 2020-10-26 19:00:22 vie.pxz # Vietnamese
 2020-10-26 19:00:23 yid.pxz # Yiddish
-2020-10-26 19:00:24 yor.pxz ???
+2020-10-26 19:00:24 yor.pxz # ???

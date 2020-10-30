@@ -3,34 +3,34 @@
 2020-10-26 18:53:13 amh.pxz am # Amharic
 2020-10-26 18:53:15 ara.pxz ar # Arabic
 2020-10-26 18:53:18 asm.pxz as # Assamese
-2020-10-26 18:53:22 aze.pxz az-az # Azerbaijani
-2020-10-26 18:53:25 aze_cyrl.pxz  az_Cyrl # Azerbaijani - Cyrillic
+2020-10-26 18:53:22 aze.pxz az-AZ # Azerbaijani
+2020-10-26 18:53:25 aze_cyrl.pxz  az-Cyrl-AZ # Azerbaijani - Cyrillic
 2020-10-26 18:53:30 bel.pxz be # Belarusian
 2020-10-26 18:53:31 ben.pxz bn # Bengali
 2020-10-26 18:53:34 bod.pxz bo # Tibetan
 2020-10-26 18:53:37 bos.pxz bs # Bosnian
-2020-10-26 18:53:45 bre.pxz ???
+2020-10-26 18:53:45 bre.pxz br # Breton
 2020-10-26 18:53:47 bul.pxz bg # Bulgarian
 2020-10-26 18:53:48 cat.pxz ca # Catalan; Valencian
-2020-10-26 18:53:49 ceb.pxz # Cebuano
+2020-10-26 18:53:49 ceb.pxz __ # Cebuano
 2020-10-26 18:53:54 ces.pxz cs # Czech
 2020-10-26 18:53:57 chi_sim.pxz zh-cn # Chinese - Simplified
-2020-10-26 18:53:59 chi_sim_vert.pxz # Chinese - Simplified (vertical)
+2020-10-26 18:53:59 chi_sim_vert.pxz zh-cn-o-vertical # Chinese - Simplified (vertical)
 2020-10-26 18:54:01 chi_tra.pxz zh_tw # Chinese - Traditional
-2020-10-26 18:54:03 chi_tra_vert.pxz # Chinese - Traditional  (vertical)
+2020-10-26 18:54:03 chi_tra_vert.pxz zh_tw-o-vertical # Chinese - Traditional  (vertical)
 2020-10-26 18:54:03 chr.pxz # Cherokee
-2020-10-26 18:54:06 cos.pxz ???
-2020-10-26 18:54:08 cym.pxz # Welsh
+2020-10-26 18:54:06 cos.pxz co __ # Corsican
+2020-10-26 18:54:08 cym.pxz cy # Welsh
 2020-10-26 18:54:11 dan.pxz  da # Danish
 2020-10-26 18:54:13 deu.pxz  de # German
-2020-10-26 18:54:15 div.pxz ???
-2020-10-26 18:54:16 dzo.pxz # Dzongkha
+2020-10-26 18:54:15 div.pxz dv # Divehi; Dhivehi; Maldivian
+2020-10-26 18:54:16 dzo.pxz dz # Dzongkha
 2020-10-26 18:54:18 ell.pxz  el # Greek, Modern (1453-)
 2020-10-26 18:54:23 eng.pxz  en # English
-2020-10-26 18:54:26 enm.pxz # English, Middle (1100-1500)
-2020-10-26 18:54:32 epo.pxz # Esperanto
-2020-10-26 18:54:36 equ.pxz ???
-2020-10-26 18:54:41 est.pxz # Estonian
+2020-10-26 18:54:26 enm.pxz __ # English, Middle (1100-1500)
+2020-10-26 18:54:32 epo.pxz eo # Esperanto
+2020-10-26 18:54:36 equ.pxz __ ???
+2020-10-26 18:54:41 est.pxz et # Estonian
 2020-10-26 18:54:48 eus.pxz # Basque
 2020-10-26 18:54:53 fao.pxz ???
 2020-10-26 18:54:53 fas.pxz # Persian
@@ -112,7 +112,7 @@
 2020-10-26 18:59:47 tat.pxz ???
 2020-10-26 18:59:51 tel.pxz # Telugu
 2020-10-26 18:59:54 tgk.pxz # Tajik
-2020-10-26 18:59:54 tgl.pxz # Tagalog
+2020-10-26 18:59:54 tgl.pxz # Tagalog, check version!
 2020-10-26 18:59:55 tha.pxz # Thai
 2020-10-26 18:59:56 tir.pxz # Tigrinya
 2020-10-26 18:59:57 ton.pxz ???

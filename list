@@ -3,7 +3,7 @@
 2023-01-03 12:20:06 amh.pxl
 2023-01-03 12:20:07 ara.pxl
 2023-01-03 12:20:08 asm.pxl
-2023-01-03 12:20:08 aze_cyrl.pxl
+2023-01-03 12:20:08 aze_cyrl.pxl aze__#Cyrl
 2023-01-03 12:20:10 aze.pxl
 2023-01-03 12:20:12 bel.pxl
 2023-01-03 12:20:13 ben.pxl
@@ -56,16 +56,16 @@
 2023-01-03 12:21:13 ita_old.pxl ita-x-old
 2023-01-03 12:21:15 ita.pxl
 2023-01-03 12:21:16 jav.pxl
-2023-01-03 12:21:17 jpn_vert.pxl ja-x-vert
+2023-01-03 12:21:17 jpn_vert.pxl jpn-x-vert
 2023-01-03 12:21:19 jpn.pxl
 2023-01-03 12:21:20 kan.pxl
-2023-01-03 12:21:21 kat_old.pxl ca-x-old
+2023-01-03 12:21:21 kat_old.pxl kat-x-old
 2023-01-03 12:21:22 kat.pxl
 2023-01-03 12:21:24 kaz.pxl
 2023-01-03 12:21:25 khm.pxl
 2023-01-03 12:21:30 kir.pxl
 2023-01-03 12:21:32 kmr.pxl
-2023-01-03 12:21:32 kor_vert.pxl ko-x-vert
+2023-01-03 12:21:32 kor_vert.pxl kor-x-vert
 2023-01-03 12:21:33 kor.pxl
 2023-01-03 12:21:37 lao.pxl
 2023-01-03 12:21:38 lat.pxl
@@ -98,10 +98,10 @@
 2023-01-03 12:22:26 slk.pxl
 2023-01-03 12:22:28 slv.pxl
 2023-01-03 12:22:28 snd.pxl
-2023-01-03 12:22:29 spa_old.pxl es-x-old
+2023-01-03 12:22:29 spa_old.pxl spa-x-old
 2023-01-03 12:22:31 spa.pxl
 2023-01-03 12:22:32 sqi.pxl
-2023-01-03 12:22:33 srp_latn.pxl
+2023-01-03 12:22:33 srp_latn.pxl srp__#Latn
 2023-01-03 12:22:34 srp.pxl
 2023-01-03 12:22:35 sun.pxl
 2023-01-03 12:22:36 swa.pxl

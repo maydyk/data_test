@@ -3,7 +3,7 @@
 2023-01-03 12:20:06 amh.pxl
 2023-01-03 12:20:07 ara.pxl
 2023-01-03 12:20:08 asm.pxl
-2023-01-03 12:20:08 aze_cyrl.pxl
+2023-01-03 12:20:08 aze_cyrl.pxl az-Cyrl
 2023-01-03 12:20:10 aze.pxl
 2023-01-03 12:20:12 bel.pxl
 2023-01-03 12:20:13 ben.pxl
@@ -14,10 +14,10 @@
 2023-01-03 12:20:19 cat.pxl
 2023-01-03 12:20:20 ceb.pxl
 2023-01-03 12:20:22 ces.pxl
-2023-01-03 12:20:23 chi_sim_vert.pxl
-2023-01-03 12:20:23 chi_sim.pxl
-2023-01-03 12:20:24 chi_tra_vert.pxl
-2023-01-03 12:20:25 chi_tra.pxl
+2023-01-03 12:20:23 chi_sim_vert.pxl zh-Hans-x-vert
+2023-01-03 12:20:23 chi_sim.pxl zh-Hans
+2023-01-03 12:20:24 chi_tra_vert.pxl zh-Hant-x-vert
+2023-01-03 12:20:25 chi_tra.pxl zh-Hant
 2023-01-03 12:20:25 chr.pxl
 2023-01-03 12:20:26 cos.pxl
 2023-01-03 12:20:27 cym.pxl
@@ -64,7 +64,7 @@
 2023-01-03 12:21:24 kaz.pxl
 2023-01-03 12:21:25 khm.pxl
 2023-01-03 12:21:30 kir.pxl
-2023-01-03 12:21:32 kmr.pxl
+2023-01-03 12:21:32 kmr.pxl ku-AR
 2023-01-03 12:21:32 kor_vert.pxl ko-x-vert
 2023-01-03 12:21:33 kor.pxl
 2023-01-03 12:21:37 lao.pxl
